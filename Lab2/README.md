@@ -1,4 +1,4 @@
-# Fine-Tining Whisper for Italian Speech Transcription 🗪
+# Fine-Tuning Whisper for Italian Speech Transcription 🗪
 The objective of this project is the fine-tuning of the Whisper translation model, by OpenAI, achieving the ability to efficiently transcribe Italian speech. This work has been separated into three steps.
 Our reference can be found in the blog post 👉 [Fine-Tune Whisper 🤗](https://huggingface.co/blog/fine-tune-whisper). To build meaningful interactive applications, a Gradio interface was employed. 
 The project does not limit itself to fine-tuning Whisper: to exploit the full capabilities of the model, we have added three functionalities, with the ultimate goal of realizing a 
